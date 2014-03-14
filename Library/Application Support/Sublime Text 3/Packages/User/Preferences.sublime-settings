@@ -1,0 +1,20 @@
+{
+	"caret_style": "phase",
+	"color_scheme": "Packages/ColorSublime Theme/BoxUK.tmTheme",
+	"detect_indentation": false,
+	"flatland_sidebar_tree_xsmall": true,
+	"flatland_square_tabs": true,
+	"font_size": 15,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"SublimeLinter",
+		"Dayle Rees Color Schemes",
+		"Vintage",
+		"AutoFileName",
+		"SublimeCodeIntel"
+	],
+	"tab_size": 4,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
