@@ -19,10 +19,8 @@
 				<string>#3B3A32</string>
 				<key>lineHighlight</key>
 				<string>#f2f6f6</string>
-                <key>selection</key>
-                <string>#FF6651</string>
-				<key>selectionForeground</key>
-                <string>#FFFFFF</string>
+				<key>selection</key>
+				<string>#a9dae5</string>
 				<key>findHighlight</key>
 				<string>#FFE792</string>
 				<key>findHighlightForeground</key>
@@ -384,23 +382,13 @@
 
 	<dict>
             <key>name</key>
-            <string>SublimeLinter Error</string>
-            <key>scope</key>
-            <string>sublimelinter.mark.error</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#D02000</string>
-            </dict>
-        </dict><dict>
-            <key>name</key>
             <string>SublimeLinter Warning</string>
             <key>scope</key>
             <string>sublimelinter.mark.warning</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#DDB700</string>
+                <string>#EDBA00</string>
             </dict>
         </dict><dict>
             <key>name</key>
@@ -411,6 +399,16 @@
             <dict>
                 <key>foreground</key>
                 <string>#FFFFFF</string>
+            </dict>
+        </dict><dict>
+            <key>name</key>
+            <string>SublimeLinter Error</string>
+            <key>scope</key>
+            <string>sublimelinter.mark.error</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#DA2000</string>
             </dict>
         </dict></array>
 	<key>uuid</key>

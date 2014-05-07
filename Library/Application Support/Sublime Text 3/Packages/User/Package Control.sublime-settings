@@ -4,7 +4,6 @@
 		"Alignment",
 		"AutoFileName",
 		"Autoprefixer",
-		"Better Completion",
 		"BracketHighlighter",
 		"Camaleon",
 		"Can I Use",
@@ -25,15 +24,12 @@
 		"SFTP",
 		"SideBarEnhancements",
 		"Stupid Indent",
-		"SublimeCodeIntel",
-		"SublimeGoogle",
 		"sublimelint",
 		"SublimeLinter",
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-php",
 		"SublimeLinter-phpcs",
-		"Subway Color Schemes",
 		"WordPress",
 		"Zen Tabs"
 	]

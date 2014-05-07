@@ -292,9 +292,6 @@ class SublimeLinter(sublime_plugin.EventListener):
 
         if not filename:
             return False
-        
-        if not filename.startswith(sublime.packages_path()):
-            return False
 
         dirname, filename = os.path.split(filename)
         dirname = os.path.basename(dirname)
