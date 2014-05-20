@@ -30,8 +30,10 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<string>#3B3A32</string>
 				<key>lineHighlight</key>
 				<string>#f2f6f6</string>
-				<key>selection</key>
-				<string>#a9dae5</string>
+                <key>selection</key>
+                <string>#FF6651</string>
+				<key>selectionForeground</key>
+                <string>#FFFFFF</string>
 				<key>findHighlight</key>
 				<string>#FFE792</string>
 				<key>findHighlightForeground</key>

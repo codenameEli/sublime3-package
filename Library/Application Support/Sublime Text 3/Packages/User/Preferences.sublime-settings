@@ -1,17 +1,19 @@
 {
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/BoxUK (SL).tmTheme",
+	"color_scheme": "Packages/User/Tomorrow_Night_Eighties (SL).tmTheme",
+	"detect_indentation": false,
 	"flatland_sidebar_tree_xsmall": true,
 	"flatland_square_tabs": true,
-	"font_size": 15,
+	"font_size": 14,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
+		"AutoFileName",
 		"Dayle Rees Color Schemes",
-		"AutoFileName"
+		"SublimeCodeIntel",
+		"Vintage"
 	],
-	"tabsize": 4,
+	"tab_size": 4,
 	"theme": "Flatland Dark.sublime-theme",
-	"translateTabsToSpaces": true
+	"translate_tabs_to_spaces": true
 }

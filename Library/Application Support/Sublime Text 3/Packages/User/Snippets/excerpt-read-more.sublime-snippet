@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+function new_excerpt_more( $more ) {
+    return '<br/><a class="read-more" href="'. get_permalink( get_the_ID() ) . '">Read More</a>';
+}
+add_filter('excerpt_more', 'new_excerpt_more');
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>snippet-excerpt-read-more</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+</snippet>
